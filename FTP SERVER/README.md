@@ -18,7 +18,7 @@ ___
 
    Untuk lebih jelasnya silahkan lihat gambar dibawah ini :
 
-   ![Setting Windows Features](source_md/windowsfeatures.png)
+   ![Setting Windows Features](source_md/windowsfeatures.PNG)
 
    - Jika sudah sesuai dengan gambar lalu klik OK.
 
